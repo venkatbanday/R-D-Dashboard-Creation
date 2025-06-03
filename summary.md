@@ -1,14 +1,19 @@
-# R&D Dashboard Creation
+R&D Dashboard Creation
 
-**Overview:**  
-R&D project tracking was disorganized and error-prone due to disconnected spreadsheets.
+Objective:
 
-**Steps Taken:**  
-- Built a Google Sheets dashboard with Xero API integration.
-- Automated timesheet, spend, and milestone tracking.
-- Implemented real-time alerts and visual timelines.
+To resolve version control, budget visibility, and milestone tracking issues across Innovate R&D projects.
 
-**Results:**  
-- Reduced quarterly claim prep time by 50%.
-- Enhanced internal visibility and financial accuracy.
-- Became the standard tool for internal and funder reporting.
+• Highlights:
+
+• Developed a comprehensive Google Sheets-based dashboard integrated with timesheets, supplier invoices, and Xero financial data.
+
+• Enabled real-time tracking of budget vs. actual spend, milestone completion, and pending claims.
+
+• Reduced quarterly claims preparation time by 50% and improved audit readiness.
+
+• Became the primary tool for both internal teams and Innovate UK’s monitoring officers.
+
+Impact:
+
+Improved cross-functional visibility, accountability, and collaboration efficiency across R&D stakeholders.
