@@ -1,19 +1,21 @@
 R&D Dashboard Creation
 
-Objective:
+R&D Financial & Milestone Tracking Dashboard – Fortray Global Services, UK
 
-To resolve version control, budget visibility, and milestone tracking issues across Innovate R&D projects.
+Overview:
 
-• Highlights:
+Worked closely with cross-functional teams to create a user-friendly dashboard that simplified budget tracking and milestone monitoring for Innovate UK–funded R&D projects.
 
-• Developed a comprehensive Google Sheets-based dashboard integrated with timesheets, supplier invoices, and Xero financial data.
+Key Achievements:
 
-• Enabled real-time tracking of budget vs. actual spend, milestone completion, and pending claims.
+• Designed a smart Google Sheets dashboard that automatically pulled data from Xero, internal timesheets, and supplier records.
 
-• Reduced quarterly claims preparation time by 50% and improved audit readiness.
+• Enabled real-time visibility of budgets, actual spend, and key project milestones—helping teams stay aligned and proactive.
 
-• Became the primary tool for both internal teams and Innovate UK’s monitoring officers.
+• Reduced the time taken to prepare quarterly funding claims by 50%, easing pressure on finance and improving compliance.
 
-Impact:
+• Provided accurate, timely insights to both internal teams and Innovate UK, supporting smooth audits and stronger stakeholder trust.
 
-Improved cross-functional visibility, accountability, and collaboration efficiency across R&D stakeholders.
+Keywords:
+
+Project Coordination | Financial Tracking | R&D Funding | PMO Support | Dashboard Design | Stakeholder Communication | Budget Management | Innovate UK | Xero Integration | Reporting Automation
